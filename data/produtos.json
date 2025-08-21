@@ -1,0 +1,72 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "titulo": "Camiseta Clássica",
+      "descricaoCurta": "Algodão penteado, conforto diário.",
+      "descricao": "Camiseta 100% algodão penteado com modelagem regular e gola canelada.",
+      "preco": 79.9,
+      "imagens": [
+        "https://i.postimg.cc/hv3WXcbS/camisa-preta.png",
+        "https://i.postimg.cc/LsMdYyfZ/camisa-vermelha.png",
+        "https://i.postimg.cc/J0sYdJZL/camisa-cinza.png"
+      ]
+    },
+    {
+      "id": "2",
+      "titulo": "Moletom Essential",
+      "descricaoCurta": "Felpa macia, ideal para meia-estação.",
+      "descricao": "Moletom com felpa interna, capuz ajustável e bolso canguru.",
+      "preco": 199.9,
+      "imagens": [
+        "https://i.postimg.cc/Y08ggyh2/moleton-vermelho.png",
+        "https://i.postimg.cc/63fGJ1VV/moleton-cinza.png",
+        "https://i.postimg.cc/hGFJJqpb/moleton-preto.png"
+      ]
+    },
+    {
+      "id": "3",
+      "titulo": "Jaqueta Corta‑Vento",
+      "descricaoCurta": "Leve e resistente à água.",
+      "descricao": "Jaqueta corta‑vento com zíper frontal e bolsos laterais.",
+      "preco": 249.0,
+      "imagens": [
+        "https://i.postimg.cc/Qx3hWd3M/corta-vento-cinza.png",
+        "https://i.postimg.cc/P5qGmLFd/corta-vento-offwhite.png"
+      ]
+    },
+    {
+      "id": "4",
+      "titulo": "Tênis Urbano",
+      "descricaoCurta": "Solado aderente e palmilha anatômica.",
+      "descricao": "Tênis casual com cabedal respirável e solado em borracha.",
+      "preco": 329.0,
+      "imagens": [
+        "https://i.postimg.cc/ZK83rnvs/tenis-marrom.png",
+        "https://i.postimg.cc/QdSTyzbp/tenis-branco.png"
+      ]
+    },
+    {
+      "id": "5",
+      "titulo": "Calça Slim",
+      "descricaoCurta": "Sarja com elastano, ajuste perfeito.",
+      "descricao": "Calça slim de sarja com elastano, bolsos faca e passantes para cinto.",
+      "preco": 189.9,
+      "imagens": [
+        "https://i.postimg.cc/zG9r8z05/cal-a-slim-branca.png",
+        "https://i.postimg.cc/mkgmqnzJ/cal-a-slim-preta.png"
+      ]
+    },
+    {
+      "id": "6",
+      "titulo": "Boné Trucker",
+      "descricaoCurta": "Ajuste traseiro e tela respirável.",
+      "descricao": "Boné estilo trucker com frente estruturada e aba curva.",
+      "preco": 89.9,
+      "imagens": [
+        "https://i.postimg.cc/jjqvC9v5/bon-vermelho.png",
+        "https://i.postimg.cc/DzWJCPw6/bon-cinza.png"
+      ]
+    }
+  ]
+}
